@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🌐 Mohamed Ziad Cherkaoui — Portfolio Website
 
-<!--
-**moziadch/moziadch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the repository of my **personal portfolio website**, hosted on [GitHub Pages].
+This site showcases my background as a **Cybersecurity Student at EMSI** and my past experience in **Social Media Marketing**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 EMSI Student (Engineering in Computer Science & Cybersecurity)  
+- 🛡️ CompTIA Security+ (in progress) | AWS Cloud Certified  
+- 🖥️ Hands-on practice with **TryHackMe**, **HackTheBox**, and personal **homelabs**  
+- 🔧 Comfortable with **Ubuntu/Linux** basics and cloud security hardening  
+
+---
+
+## 🚀 What’s Inside
+- **Homepage (`index.html`)** → Overview of my profile  
+- **Projects section** → Highlights of labs, security exercises, and past SMMA case studies  
+- **Contact section** → Email + LinkedIn  
+
+---
+
+## 🛠️ Tech Stack
+- HTML5 / CSS3  
+- GitHub Pages (free hosting)  
+- Optional: Proxmox & Homelab practice (documented later)  
+
+---
+
+## 📬 Contact
+- **Email:** mohamedziadcherkaoui@gmail.com   
+
+---
+
+⭐ Feel free to check my portfolio and reach out for **internships, entry-level cybersecurity jobs, or collaborations**.
